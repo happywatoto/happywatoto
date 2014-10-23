@@ -1,0 +1,2 @@
+- removed logo header
+- removed dataface-sections-left-column in Dataface_View_Record.html
